@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Aloeminium108/Aloeminium108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://github.com/Aloeminium108/Aloeminium108/blob/Main/image.jpg?raw=true)
+![alt text](https://github.com/Aloeminium108/Aloeminium108/blob/Main/yellowbanner.png?raw=true)
